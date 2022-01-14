@@ -1,8 +1,10 @@
 # 01-react-ja-redux
 
-Tee omalle kannettavallesi uusi kansio C:\tiedostot\react-ja-redux. Avaa tämä uusi kansio editoriin ja avaa editorissa terminaali (Terminal --> New). Kloonaa GitHubista repository https://github.com/konjuable/01-react-ja-redux.git tähän kansioon --> Anna komentorivillä komento <code>git clone https://github.com/konjuable/01-react-ja-redux.git</code>. Kansiolla react-ja-redux pitäisi nyt olla alikansio 01-react-ja-redux.
+Tee omalle kannettavallesi uusi kansio C:\tiedostot\react-ja-redux. Avaa tämä uusi kansio editoriin ja avaa editorissa terminaali (Terminal --> New). Kloonaa oppimistehtävä GitHubista tämän kansion alikansioksi --> <code>https://github.com/Helsinki-Business-College-Oy/react-ja-redux-1-konjuable.git</code>
 
-Tehtävän linkki GitHub Classroomissa: https://classroom.github.com/a/VzTLWxE5.
+# Oppimistehtävä
+
+Siirry editorissa kansioon C:\tiedostot\react-ja-redux\react-ja-redux-1-konjuable. Tee tehtävä opittujen taitojen avulla Reactilla. 
 
 Tee Reactilla oheisen kuvan mukainen komponentti niin vähällä määrällä koodia kuin pystyt.
 
